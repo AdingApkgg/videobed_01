@@ -1,0 +1,14 @@
+{
+  "name": "ading-videobed_01",
+  "version": "1.0.1",
+  "description": "视频床",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "视频床"
+  ],
+  "author": "adingapkgg",
+  "license": "ISC"
+}
